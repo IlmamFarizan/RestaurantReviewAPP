@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">731018426489-qt4mrp970h39app8bkmt1s0n16o4aviv.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">731018426489</string>
+    <string name="google_api_key" translatable="false">AIzaSyCSlXUhcmvH55xJZtoY_lI0yQ61-mem0MI</string>
+    <string name="google_app_id" translatable="false">1:731018426489:android:d5e5df97d4b313a8bd7ca8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCSlXUhcmvH55xJZtoY_lI0yQ61-mem0MI</string>
+    <string name="google_storage_bucket" translatable="false">hotelreviewapp-e29f7.appspot.com</string>
+    <string name="project_id" translatable="false">hotelreviewapp-e29f7</string>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.restaurantreviewapp.fragments.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_nav_gallery"
+            app:destination="@id/nav_gallery" />
+        <action
+            android:id="@+id/action_nav_home_to_viewHotelFragment"
+            app:destination="@id/viewHotelFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.restaurantreviewapp.fragments.AddRestaurantFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" >
+        <action
+            android:id="@+id/action_nav_gallery_to_nav_slideshow"
+            app:destination="@id/locationFragment" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/locationFragment"
+        android:name="com.example.restaurantreviewapp.fragments.LocationFragment"
+        android:label="fragment_about"
+        tools:layout="@layout/fragment_about" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.restaurantreviewapp.fragments.AboutFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_location" />
+    <fragment
+        android:id="@+id/viewHotelFragment"
+        android:name="com.example.restaurantreviewapp.fragments.ViewHotelFragment"
+        android:label="ViewHotelFragment" >
+        <action
+            android:id="@+id/action_viewHotelFragment_to_locationFragment"
+            app:destination="@id/locationFragment" />
+    </fragment>
+
+</navigation>

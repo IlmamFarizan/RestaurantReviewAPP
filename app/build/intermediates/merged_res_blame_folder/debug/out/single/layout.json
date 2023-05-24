@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.hotelreviewapp-mergeDebugResources-54:/layout/activity_main.xml",
+        "source": "com.example.hotelreviewapp-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.hotelreviewapp-mergeDebugResources-54:/layout/delete_dialog_layout.xml",
+        "source": "com.example.hotelreviewapp-main-57:/layout/delete_dialog_layout.xml"
+    },
+    {
+        "merged": "com.example.hotelreviewapp-mergeDebugResources-54:/layout/app_bar_home.xml",
+        "source": "com.example.hotelreviewapp-main-57:/layout/app_bar_home.xml"
+    },
+    {
+        "merged": "com.example.hotelreviewapp-mergeDebugResources-54:/layout/fragment_about.xml",
+        "source": "com.example.hotelreviewapp-main-57:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "com.example.hotelreviewapp-mergeDebugResources-54:/layout/fragment_gallery.xml",
+        "source": "com.example.hotelreviewapp-main-57:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "com.example.hotelreviewapp-mergeDebugResources-54:/layout/fragment_home.xml",
+        "source": "com.example.hotelreviewapp-main-57:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.hotelreviewapp-mergeDebugResources-54:/layout/item_recycler.xml",
+        "source": "com.example.hotelreviewapp-main-57:/layout/item_recycler.xml"
+    },
+    {
+        "merged": "com.example.hotelreviewapp-mergeDebugResources-54:/layout/nav_header_home.xml",
+        "source": "com.example.hotelreviewapp-main-57:/layout/nav_header_home.xml"
+    },
+    {
+        "merged": "com.example.hotelreviewapp-mergeDebugResources-54:/layout/content_home.xml",
+        "source": "com.example.hotelreviewapp-main-57:/layout/content_home.xml"
+    },
+    {
+        "merged": "com.example.hotelreviewapp-mergeDebugResources-54:/layout/fragment_location.xml",
+        "source": "com.example.hotelreviewapp-main-57:/layout/fragment_location.xml"
+    },
+    {
+        "merged": "com.example.hotelreviewapp-mergeDebugResources-54:/layout/activity_home.xml",
+        "source": "com.example.hotelreviewapp-main-57:/layout/activity_home.xml"
+    }
+]

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731018426489",
+    "project_id": "hotelreviewapp-e29f7",
+    "storage_bucket": "hotelreviewapp-e29f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731018426489:android:d5e5df97d4b313a8bd7ca8",
+        "android_client_info": {
+          "package_name": "com.example.hotelreviewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731018426489-qt4mrp970h39app8bkmt1s0n16o4aviv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSlXUhcmvH55xJZtoY_lI0yQ61-mem0MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731018426489-qt4mrp970h39app8bkmt1s0n16o4aviv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
